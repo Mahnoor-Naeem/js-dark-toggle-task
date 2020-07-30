@@ -62,6 +62,6 @@ nav button i{
     font-size: 1.5em;
 }
 nav button i:hover{
-    background-color: rgb(39, 38, 38); 
+/*     background-color: rgb(39, 38, 38);  */
     border-radius: 7px;
 }
